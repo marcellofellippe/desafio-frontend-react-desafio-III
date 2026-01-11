@@ -260,3 +260,6 @@ npx json-server db.json --port 3001
   - Calcule o subtotal, frete e valor total usando o endpoint `GET /carrinho`
 
 </details>
+
+
+#Desenvolvimento Marcelo Felipe Andrade de Borba & Jonatas 
